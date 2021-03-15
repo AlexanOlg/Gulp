@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "bebas_neueRegular";
+  font-display: swap;
+  src: url("../fonts/bebas_neueRegular.woff") format("woff"), url("../fonts/bebas_neueRegular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  src: url("../fonts/lato-italic.woff") format("woff"), url("../fonts/lato-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  src: url("../fonts/LatoBold.woff") format("woff"), url("../fonts/LatoBold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  src: url("../fonts/LatoRegular.woff") format("woff"), url("../fonts/LatoRegular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "sFUIDisplay";
+  font-display: swap;
+  src: url("../fonts/sFUIDisplay.woff") format("woff"), url("../fonts/sFUIDisplay.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+div {
+  background: url("../img/img1.jpg") 0 0 no-repeat;
+}
+
+.webp div { background: url(../img/img1.webp) 0 0 no-repeat; }
